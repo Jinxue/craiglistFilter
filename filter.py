@@ -12,7 +12,7 @@ from email.MIMEText import MIMEText
 #from email import Encoders
 
 mail_user = "zhangjinxue1984@hotmail.com"
-mail_pwd = "Myzhang123"
+mail_pwd = "*****"
 mail_SMTP_server = "smtp.live.com"
 mail_SMTP_port = 587
 
